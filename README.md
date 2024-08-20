@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
 
+# Create the project using angular CLI by the command.
+Run `ng new <project_name>` to create the project. Make sure that npm is installed if not run `npm install` in the CLI.
+
+# API used in this project.
+Rapid API `Weather by API Dojo`. Create an account in Rapid API and subscribe the `Weather by API Dojo` to use it.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
